@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# This Python script serves as the refined V2 submission (V7-D) for the GTA VI Trophy Rarity forecasting challenge.
 """GTA VI Trophy Rarity Forecast (V7-D Tahap-2 / V2)."""
 from __future__ import annotations
 
